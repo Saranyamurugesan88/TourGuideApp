@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Holidazzle</string>
+    <string name="link_seeall">
+        <a href="">See all</a>
+    </string>
+    <string name="explore_india">Explore India !</string>
+    <string name="start_exploring">Start Exploring</string>
+    <string name="destinations">Top Tourist Destinations</string>
+    <string name="attractions">Top Tourist Attractions</string>
+    <string name="tourist_destinations">All Tourist Destinations</string>
+    <string name="city_delhi">New Delhi</string>
+    <string name="delhi">Delhi</string>
+    <string name="agra">Agra</string>
+    <string name="uttar_pradhesh">Uttar Pradhesh</string>
+    <string name="food_dishes">FAMOUS FOOD DISHES</string>
+    <string name="description">Description</string>
+    <string name="description_here">Description here</string>
+    <string name="tour_atrraction">TOURIST ATTRACTIONS</string>
+    <string name="oct_to_march">October to March</string>
+    <string name="time_to_visit">Best Time to Visit</string>
+    <string name="two_three_days">2 to 3 Days</string>
+    <string name="approx_trip">Approx.Trip Duration</string>
+    <string name="agra_uttar">Agra,Uttar Pradesh</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="location">Get Location</string>
+</resources>
